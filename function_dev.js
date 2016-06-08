@@ -5,3 +5,7 @@ function f1(){
 function f2(){
 	console.info("something is going to happen");
 }
+
+function f3(){
+	console.info("i hate you");
+}
