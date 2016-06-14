@@ -3,5 +3,5 @@ function f1(){
 }
 
 function f3(){
-	console.info("i hate you");
+	console.info("i love you");
 }
