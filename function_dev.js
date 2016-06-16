@@ -9,3 +9,7 @@ function f3(){
 function f4(){
 	console.info("wonderful");
 }
+
+function f5(){
+ var a = 1;
+}
