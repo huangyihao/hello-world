@@ -5,4 +5,5 @@ function f1(){
 
 function f2(){
 	var j = 2;
+	var k = 5;
 }
