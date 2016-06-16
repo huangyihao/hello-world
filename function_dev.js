@@ -15,3 +15,14 @@ function f5(){
 	var b = 2;
 	var c = a + b;
 }
+
+function f6(){
+	var flag = false;
+	for(var i = 0; i < 3; i++){
+		if(i==2){
+			flag = true;
+		}
+		
+	}
+	return flag;
+}
