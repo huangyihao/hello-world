@@ -17,10 +17,10 @@ function f5(){
 }
 
 function f6(){
-	var flag = false;
+	var flag = true;
 	for(var i = 0; i < 3; i++){
-		if(i==1){
-			flag = true;
+		if(i==3){
+			flag = false;
 		}
 		
 	}
