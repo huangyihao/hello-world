@@ -13,6 +13,3 @@ function f3(){
 	console.info("aaa");
 }
 
-function f4(){
-	console.info("bbb");
-}
