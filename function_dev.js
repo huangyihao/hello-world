@@ -19,7 +19,7 @@ function f5(){
 function f6(){
 	var flag = false;
 	for(var i = 0; i < 3; i++){
-		if(i==2){
+		if(i==1){
 			flag = true;
 		}
 		
