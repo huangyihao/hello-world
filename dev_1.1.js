@@ -8,3 +8,8 @@ function f2(){
 	var u = 5;
 	var k = 3;
 }
+
+function f3(){
+	console.info("aaa");
+}
+
