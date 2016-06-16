@@ -24,6 +24,6 @@ function f6(){
 		}
 		
 	}
-	console.info(flag);
+	console.info("flag :"+flag);
 	return flag;
 }
