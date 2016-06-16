@@ -24,5 +24,6 @@ function f6(){
 		}
 		
 	}
+	console.info(flag);
 	return flag;
 }
