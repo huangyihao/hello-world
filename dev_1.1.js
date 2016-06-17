@@ -5,7 +5,7 @@ function f1(){
 
 function f2(){
 	var j = 2;
-	var u = 5;
+	var u = 58;
 	var k = 3;
 }
 
